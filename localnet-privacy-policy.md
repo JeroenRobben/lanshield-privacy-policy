@@ -62,4 +62,4 @@ You have the right to ask for more information about the use of your data. In ad
 
 For questions about the results from the user study, you can reach out to [lanshield@cs.kuleuven.be](mailto:lanshield@cs.kuleuven.be).
 
-If you have any other queries, [please use this form to reach us](https://google.com).
+If you have any other queries, [please use this form to reach us](https://docs.google.com/forms/d/e/1FAIpQLSdDQKqiVn1GWa77ZGhI3KbV5TspKXwd1WV-QxX1qzsISBMLng/viewform).
